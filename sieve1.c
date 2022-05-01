@@ -39,7 +39,7 @@ void main() {
     
     printf("\n%d primes\n", count);
     printf("\nTook %f seconds to execute \n", time_taken);
-    printf("\nYour machine is %f times faster than Z80-Sieve-benchmark\n", 14/time_taken);
+    printf("\nYour machine is %f times faster than Z80-Sieve-benchmark\n", 14.000/time_taken);
 
 
 }
