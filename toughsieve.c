@@ -46,7 +46,7 @@ int main() {
     printf("\n%d primes\n", count);
     printf("\nTook %f seconds to execute \n", time_taken);
     printf("\nYour machine is %f times faster than Win10-X86-PC/i3-4000M(C)-ToughSieve-benchmark\n", 29.873000/time_taken);
-    printf("Your machine is %f times faster than Linux-X86-PC/Ryzen7-1700X(C)-ToughSieve-benchmark\n", 25.474797/time_taken);
+    printf("Your machine is %f times faster than Linux-X86-PC/Ryzen7-1700X(C)-ToughSieve-benchmark\n", 24.258005/time_taken);
     printf("Your machine is %f times faster than Linux-X86-PC/i7-8850H(C)-ToughSieve-benchmark\n", 12.723097/time_taken);
            
     return 0;
