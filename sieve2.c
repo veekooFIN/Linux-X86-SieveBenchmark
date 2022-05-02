@@ -2,6 +2,10 @@
 #include <string.h>
 #include <time.h>
 
+/** This is a more substantial modification of the sieve program.
+    Besides the sieve1 modifications, sieve2 uses memset to clear the flag array
+    and the sieve loop has been moved into its own leaf function. **/
+
 #define true 1
 #define false 0
 #define size 8190
