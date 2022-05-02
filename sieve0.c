@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <time.h>
 
+/** This is the genuine C program of the sieve benchmark.
+    The only additions are the #include directives above
+    and the timing code enabled by the preprocessor symbol TIMER. **/
+
 #define true 1
 #define false 0
 #define size 8190
