@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <time.h>
 
+/** This is a minor modification of the genuine C program of the sieve benchmark.
+    Loop conditions and certain expressions have been made optimizer friendly. **/
+
 #define true 1
 #define false 0
 #define size 8190
