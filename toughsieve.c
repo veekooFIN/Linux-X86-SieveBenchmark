@@ -52,9 +52,10 @@ int main() {
     printf("\nYour machine is %f times faster than Win10-X86-PC/i3-4000M(C)-ToughSieve-benchmark\n", 27.357000/time_taken);
     printf("Your machine is %f times faster than Linux-X86-PC/Ryzen7-1700X(C)-ToughSieve-benchmark\n", 23.778366/time_taken);
     printf("Your machine is %f times faster than Win10-X86-PC/Ryzen7-1700X(C)-ToughSieve-benchmark\n", 22.624000/time_taken);
-    printf("Your machine is %f times faster than Linux-X86-PC/i7-8850H(C)-ToughSieve-benchmark\n", 12.723097/time_taken);
+    printf("Your machine is %f times faster than Linux-X86-PC/i7-8850H(C)-ToughSieve-benchmark\n", 11.988820/time_taken);
     printf("Your machine is %f times faster than Win10-X86-PC/i7-8850H(C)-ToughSieve-benchmark\n", 11.423000/time_taken);
            
     return 0;
 }
+
 
